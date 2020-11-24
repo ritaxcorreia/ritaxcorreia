@@ -6,7 +6,7 @@ After 10 years in project management, I decided to brush up on my coding skills 
 
 🌱 I’m currently learning React and then I'll delve deeper into TypeScript and GraphQL.
 
-**Email:** rita@ritacorreia.co
-**Website:** https://ritacorreia.co
-**Twitter:** https://twitter.com/ritaxcorreia
+**Email:** rita@ritacorreia.co  
+**Website:** https://ritacorreia.co  
+**Twitter:** https://twitter.com/ritaxcorreia  
 **LinkedIn:** https://www.linkedin.com/in/ritaxcorreia/
