@@ -1,4 +1,5 @@
-# Hi there👋 I'm Rita, a software engineer in the making and former Agile project manager, specialising in front-end development.
+# Hi there 👋
+## I'm Rita, a software engineer in the making and former Agile project manager, specialising in front-end development.
 
 I’m pivoting my career into software development, currently upskilling my knowledge with General Assembly to further deepen my JavaScript knowledge. In 2008, I graduated University with a degree in Communication Sciences and Technology, and then pursued a career in digital project management. 
 
