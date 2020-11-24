@@ -1,4 +1,4 @@
-# Hi there👋 I'm Rita, I’m an aspiring software engineer and former Agile project manager, specialising in front-end development.
+# Hi there👋 I'm Rita, a software engineer in the making and former Agile project manager, specialising in front-end development.
 
 I’m pivoting my career into software development, currently upskilling my knowledge with General Assembly to further deepen my JavaScript knowledge. In 2008, I graduated University with a degree in Communication Sciences and Technology, and then pursued a career in digital project management. 
 
@@ -9,4 +9,4 @@ After 10 years in project management, I decided to brush up on my coding skills 
 **Email:** rita@ritacorreia.co
 **Website:** https://ritacorreia.co
 **Twitter:** https://twitter.com/ritaxcorreia
-**LinkedIn:** https://www.linkedin.com/in/ritaxcorreia/Github
+**LinkedIn:** https://www.linkedin.com/in/ritaxcorreia/
