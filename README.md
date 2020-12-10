@@ -3,7 +3,7 @@
 
 I’ve pivoted my career into software development, having recently completed a coding course with General Assembly to further deepen my JavaScript and React skills.
 
-In 2008, I graduated University with a degree in Communication Sciences and Technology, and then pursued a career in digital project management. After 10 years, I missed progamming so I decided to brush up on my coding skills and started coding again. Since then I've become proficient in HTML, CSS, JavaScript, Git, and GitHub.
+In 2008, I graduated University with a degree in Communication Sciences and Technology, and then pursued a career in digital project management. After 10 years, I missed progamming so I decided to brush up on my coding skills and started coding again. Since then I've become proficient in HTML, CSS, JavaScript, Git, GitHub and command line.
 
 🌱 I’m currently focusing on learning more React. And interested in learning TypeScript and GraphQL.
 
