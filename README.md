@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Rita, a front-end engineer and former Agile project manager, specialising in front-end development.
+## I'm Rita, a junior front-end developer and former Agile project manager, based in London, UK.
 
 I’ve pivoted my career into software development, having recently completed a coding course with General Assembly to further deepen my JavaScript and React skills.
 
